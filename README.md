@@ -6,7 +6,7 @@ I'm an iOS Developer primarily, but play around in different technologies and la
 Skills: Swift / JavaScript / Python / Java / Dart
 
 - 🔭 I’m currently working on iOS and Web apps! 
-- 🌱 I’m currently learning Python to try developing something in Machine Learning or Computer Vision. 
+- 🌱 I'm currently looking for full time engineering positions and new challenges!
 - 📫 How to reach me: shoot me a message here or on linkedin! 
 
 
