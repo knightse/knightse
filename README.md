@@ -1,7 +1,7 @@
 ![I like to make iOS apps!](https://github.com/knightse/knightse/blob/main/header.png?raw=true)
-#### I'm an iOS Developer
+#### Mobile Application Engineer
 
-I'm an iOS Developer primarily, but play around in different technologies and languages all the time, from multi-platform mobile development with Flutter, Web Stuff with JavaScript/React, and various things in Python!
+I'm a mobile Software Engineer currently working at Amazon Last Mile building iOS software!
 
 Skills: Swift / JavaScript / Python / Java / Dart
 
